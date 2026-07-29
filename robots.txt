@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shukritobi.github.io/NADIPACK-GLOBAL-tax-services/sitemap.xml
